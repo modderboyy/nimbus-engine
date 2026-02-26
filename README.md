@@ -1,4 +1,5 @@
-<img width="1095" height="748" alt="image" src="https://github.com/user-attachments/assets/85adab96-7db2-4b23-9788-58938952b0a9" /># 🌩️ Nimbus Framework
+# 🌩️ Nimbus Framework
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/96d84234-5deb-43aa-a51b-78a9f1e0ec1a" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-3.0.0-blue.svg?style=flat-square" alt="Version">
