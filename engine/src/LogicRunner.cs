@@ -9,7 +9,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Effects;
 using System.Xml;
 using System.Text;
-using System.Windows.Input;       // Cursors, MouseEventArgs uchun
+using System.Windows.Input;       // Cursors, MouseEventArgs uchun5
 using System.Windows.Threading;   // DispatcherTimer uchun
 using System.Windows.Shapes;      // Rectangle, Path uchun (agar kerak bo'lsa)
 namespace Nimbus.WPF
